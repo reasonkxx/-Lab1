@@ -1,0 +1,8 @@
+C:\Users\chubk\source\repos\Lab 1 List\Lab 1 List\bin\Debug\Lab 1 List.exe.config
+C:\Users\chubk\source\repos\Lab 1 List\Lab 1 List\bin\Debug\Lab 1 List.exe
+C:\Users\chubk\source\repos\Lab 1 List\Lab 1 List\bin\Debug\Lab 1 List.pdb
+C:\Users\chubk\source\repos\Lab 1 List\Lab 1 List\obj\Debug\Lab 1 List.csproj.AssemblyReference.cache
+C:\Users\chubk\source\repos\Lab 1 List\Lab 1 List\obj\Debug\Lab 1 List.csproj.SuggestedBindingRedirects.cache
+C:\Users\chubk\source\repos\Lab 1 List\Lab 1 List\obj\Debug\Lab 1 List.csproj.CoreCompileInputs.cache
+C:\Users\chubk\source\repos\Lab 1 List\Lab 1 List\obj\Debug\Lab 1 List.exe
+C:\Users\chubk\source\repos\Lab 1 List\Lab 1 List\obj\Debug\Lab 1 List.pdb
